@@ -1,0 +1,5 @@
+print('Hello world')
+print("Hello world")
+print("'Hello world'")
+print("Ahamed Saniul Maheraj")
+print(1711)
